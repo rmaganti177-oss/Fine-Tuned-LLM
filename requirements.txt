@@ -1,0 +1,11 @@
+# Data generation (CPU)
+jsonschema[format]==4.23.0
+datasets>=2.19
+faker
+# Training / eval (GPU)
+unsloth
+transformers>=4.55,<5
+trl
+peft
+accelerate
+torch

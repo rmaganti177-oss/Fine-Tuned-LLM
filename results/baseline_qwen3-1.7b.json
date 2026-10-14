@@ -1,0 +1,9 @@
+[
+  {
+    "model": "Qwen/Qwen3-1.7B",
+    "flat": 0.87,
+    "nested": 0.58,
+    "all": 0.725,
+    "parse_fail": 0.04
+  }
+]
